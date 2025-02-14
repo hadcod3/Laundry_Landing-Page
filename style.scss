@@ -218,7 +218,7 @@ header{
 .hero_section{
     position: relative;
     min-height: 100vh;
-    background: url(../image/bg1.jpg) no-repeat;
+    background: url(../image/background-img/image-1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -321,7 +321,7 @@ header{
 .system_section{ 
     position: relative;
     min-height: 100vh;
-    background: url(../image/bg2.jpg);
+    background: url(../image/background-img/image-2.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -677,7 +677,7 @@ header{
 .testimonials_section{
     position: relative;
     min-height: 100vh;
-    background: url("../image/bg3.jpg");
+    background: url(../image/background-img/image-3.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
